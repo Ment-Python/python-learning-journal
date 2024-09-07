@@ -6,6 +6,8 @@ A repository to document my Python learning journey
 
 Student at West Valley College
 
+Interested in competitive programming and research
+
 ## Goals for This Course
 
 Learn more Python
